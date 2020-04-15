@@ -17,7 +17,7 @@
   "engine": "node >= 8.0.0",
   "main": "index.js",
   "repository": {
-    "url": "git@github.com:particl/bitcore-wallet-client.git",
+    "url": "git@github.com:Capricoinofficial/bitcore-wallet-client.git",
     "type": "git"
   },
   "bugs": {
