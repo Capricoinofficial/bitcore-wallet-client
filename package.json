@@ -29,7 +29,7 @@
     "bitcore-lib": "=0.16.0",
     "bitcore-lib-cash": "=0.19.0",
     "bitcore-mnemonic": "git://github.com/Capricoinofficial/bitcore-mnemonic.git",
-    "bitcore-payment-protocol": "^1.7.0",
+    "bitcore-payment-protocol": "git://github.com/Capricoinofficial/bitcore-payment-protocol.git",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^4.17.11",
     "capricoinplus-bitcore-lib": "git://github.com/Capricoinofficial/capricoinplus-bitcore-lib.git",
